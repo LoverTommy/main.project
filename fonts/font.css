@@ -1,0 +1,17 @@
+@font-face {
+    font-family: ttfirs;
+    src: url(./TTFirsNeue-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: ttfirs;
+    src: url(./TTFirsNeue-Medium.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: ttfirs;
+    src: url(./TTFirsNeue-DemiBold.ttf);
+    font-weight: 400;
+}
